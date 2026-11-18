@@ -15,4 +15,7 @@ class MainActivity : AppCompatActivity() {
         val testMessage = "Dang luyen tap git cho bai kiem tra Android"
         println(testMessage)
     }
+    fun hamBoSungTest() {
+        // Code bổ sung
+    }
 }
